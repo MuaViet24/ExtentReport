@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64" started-at="2019-10-22T17:21:51Z" finished-at="2019-10-22T17:21:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64" started-at="2019-10-22T17:21:51Z" finished-at="2019-10-22T17:21:51Z">
+      <class name="com.test.extent.Dummy">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.extent.Dummy@33a10788]" name="setup" is-config="true" duration-ms="482" started-at="2019-10-22T22:51:51Z" finished-at="2019-10-22T22:51:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testOnFail()[pri:0, instance:com.test.extent.Dummy@33a10788]" name="testOnFail" duration-ms="42" started-at="2019-10-22T22:51:51Z" finished-at="2019-10-22T22:51:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnFail -->
+        <test-method status="PASS" signature="testOnPass()[pri:0, instance:com.test.extent.Dummy@33a10788]" name="testOnPass" duration-ms="2" started-at="2019-10-22T22:51:51Z" finished-at="2019-10-22T22:51:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnPass -->
+        <test-method status="PASS" signature="testOnSkip()[pri:0, instance:com.test.extent.Dummy@33a10788]" name="testOnSkip" duration-ms="1" started-at="2019-10-22T22:51:51Z" finished-at="2019-10-22T22:51:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnSkip -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.extent.Dummy@33a10788]" name="tearDown" is-config="true" duration-ms="735" started-at="2019-10-22T22:51:51Z" finished-at="2019-10-22T22:51:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.extent.Dummy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
